@@ -1,0 +1,11 @@
+#!/bin/sh
+cd ~
+homeDirectory=`pwd`
+
+mainDirectory=${homeDirectory}"/TERMINAL-LOG"
+execDirectory=${mainDirectory}"/sh"
+program_id=${execDirectory}"/term_logging.sh"
+logDirectory=${mainDirectory}"/log"
+loadProfile=${execDirectory}"/.term_profile"
+
+cd ${execDirectory}
