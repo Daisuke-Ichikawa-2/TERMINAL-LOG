@@ -1,0 +1,23 @@
+Script started on Mon Apr  1 19:17:31 2019
+[?1034h[~ staff@term]
+[~ staff@term]cd projects/
+[projects staff@term]lsa
+total 32
+drwxr-xr-x  24 ichikawadaisuke  staff    768  2 15 14:30 knowledge
+drwxr-xr-x  28 ichikawadaisuke  staff    896  2 27 09:56 pictweet
+drwxr-xr-x   4 ichikawadaisuke  staff    128  2 28 10:12 todo_app
+drwxr-xr-x  21 ichikawadaisuke  staff    672  3  4 18:54 mooovi
+drwxr-xr-x  22 ichikawadaisuke  staff    704  3  7 11:18 view-app
+drwxr-xr-x   6 ichikawadaisuke  staff    192  3  7 14:21 group-materials
+drwxr-xr-x  22 ichikawadaisuke  staff    704  3 13 14:22 demo_mercari
+drwxr-xr-x  27 ichikawadaisuke  staff    864  3 23 14:24 mercari_46_a_bk20190323
+drwxr-xr-x  25 ichikawadaisuke  staff    800  3 27 10:58 demo-chat_space
+drwxr-xr-x  16 ichikawadaisuke  staff    512  3 27 12:01 .
+drwxr-xr-x  27 ichikawadaisuke  staff    864  3 27 12:01 bk201903271201_mercari_46_a
+-rw-r--r--@  1 ichikawadaisuke  staff  14340  3 27 13:28 .DS_Store
+drwxr-xr-x  27 ichikawadaisuke  staff    864  3 30 19:26 chat_space
+drwxr-xr-x  27 ichikawadaisuke  staff    864  4  1 13:10 mercari_46_a
+drwxr-xr-x  39 ichikawadaisuke  staff   1248  4  1 14:44 backup
+drwxr-xr-x+ 41 ichikawadaisuke  staff   1312  4  1 18:48 ..
+[projects staff@term]cd mercari_46_a
+[mercari_46_a staff@term]

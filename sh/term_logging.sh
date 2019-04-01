@@ -15,5 +15,6 @@ logFileName="${logDirectory}/"`date +%Y%m%d%H%M%S`"_term.log"
 # find ./ -name "*_term.log" -mtime +60 -exec rm {} \;
 
 # メイン処理
+cd ~
 echo "This terminal is logging! now."
 script -a ${logFileName}
